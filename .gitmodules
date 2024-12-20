@@ -8,6 +8,15 @@
 [submodule "alertr"]
 	path = alertr
 	url = https://github.com/frankiethull/alertr
+[submodule "ggpal2"]
+	path = ggpal2
+	url = https://github.com/frankiethull/ggpal2
+[submodule "kantime"]
+	path = kantime
+	url = https://github.com/frankiethull/kantime
+[submodule "kuzco"]
+	path = kuzco
+	url = https://github.com/frankiethull/kuzco
 [submodule "maize"]
 	path = maize
 	url = https://github.com/frankiethull/maize
