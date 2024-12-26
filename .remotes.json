@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ellmer",
+    "url": "https://github.com/tidyverse/ellmer",
+    "via": ["ggpal2", "pal"],
+    "from": "ggpal2"
+  },
+  {
+    "package": "pal",
+    "url": "https://github.com/simonpcouch/pal",
+    "via": ["ggpal2"],
+    "from": "ggpal2"
+  }
+]
