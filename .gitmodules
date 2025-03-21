@@ -8,10 +8,6 @@
 [submodule "alertr"]
 	path = alertr
 	url = https://github.com/frankiethull/alertr
-[submodule "ellmer"]
-	path = ellmer
-	url = https://github.com/tidyverse/ellmer
-	registered = false
 [submodule "ggpal2"]
 	path = ggpal2
 	url = https://github.com/frankiethull/ggpal2
@@ -24,7 +20,3 @@
 [submodule "maize"]
 	path = maize
 	url = https://github.com/frankiethull/maize
-[submodule "pal"]
-	path = pal
-	url = https://github.com/simonpcouch/pal
-	registered = false
