@@ -20,3 +20,7 @@
 [submodule "maize"]
 	path = maize
 	url = https://github.com/frankiethull/maize
+[submodule "qrsvm"]
+	path = qrsvm
+	url = https://github.com/frankiethull/qrsvm
+	registered = false
